@@ -1,0 +1,169 @@
+{
+	"viewingDirection": "left-to-right",
+	"metadata": [
+		{
+			"label": "Donor(s)",
+			"value": "Schechter, S. (Solomon), 1847-1915; Taylor, Charles, 1840-1908"
+		},
+		{
+			"label": "Subject(s)",
+			"value": "Cairo Genizah"
+		},
+		{
+			"label": "Provenance",
+			"value": "Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in 1898 as part of the Taylor-Schechter Genizah Collection"
+		},
+		{
+			"label": "Physical Location",
+			"value": "Cambridge University Library"
+		},
+		{
+			"label": "Funding",
+			"value": "The digitisation of the Taylor-Schechter Cairo Genizah Collection has been sponsored by the <a target='_blank' class='externalLink' href='http://www.jewishmanuscripts.org/'>Jewish Manuscript Preservation Society</a>, the <a target='_blank' class='externalLink' href='http://www.genizah.org/'>Friedberg Genizah Project Inc.</a>, and the <a target='_blank' class='externalLink' href='http://www.ahrc.ac.uk/Pages/default.aspx'>Arts and Humanities Research Council, UK</a>."
+		},
+		{
+			"label": "Date of Creation",
+			"value": "6th-19th century"
+		},
+		{
+			"label": "Title",
+			"value": "Genizah Fragment"
+		},
+		{
+			"label": "Author(s) of the Record",
+			"value": "CUL"
+		},
+		{
+			"label": "Classmark",
+			"value": "T-S Misc. 28.79"
+		}
+	],
+	"@type": "sc:Manifest",
+	"attribution": "Provided by Cambridge University Library. Zooming image © Cambridge University Library, All rights reserved.  This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please contact genizah@lib.cam.ac.uk.   This metadata is published free of restrictions, under the terms of the Creative Commons CC0 1.0 Universal Public Domain Dedication.",
+	"structures": [
+		{
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/1",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/2",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/3",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/4",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/5",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/6",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/7",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/8",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/9",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/10",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/11",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/12",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/13",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/14",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/15",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/16",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/17",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/18",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/19",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/20",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/21",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/22",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/23",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/24",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/25",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/26",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/27",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/28",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/29",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/30",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/31",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/32",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/33",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/34",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/35",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/36",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/37",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/38",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/39",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/40",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/41",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/42",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/43",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/44",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/45",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/46",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/47",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/48",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/49",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/50"
+			],
+			"@type": "sc:Range",
+			"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/range/DOCUMENT",
+			"label": "Genizah Fragment"
+		}
+	],
+	"description": "",
+	"logo": "https://cudl.lib.cam.ac.uk/img/cu_logo.png",
+	"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079",
+	"label": "Genizah Fragment (T-S Misc. 28.79)",
+	"sequences": [
+		{
+			"canvases": [
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://images.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079-000-00001.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 3742,
+								"@id": "https://images.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079-000-00001.jp2",
+								"height": 2974
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/1"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 3742,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/1",
+					"label": "1r",
+					"height": 2974
+				},
+				{
+					"images": [
+						{
+							"resource": {
+								"@type": "dctypes:Image",
+								"service": {
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://images.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079-000-00002.jp2",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								},
+								"format": "image/jpg",
+								"width": 3645,
+								"@id": "https://images.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079-000-00002.jp2",
+								"height": 2986
+							},
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/2"
+						}
+					],
+					"@type": "sc:Canvas",
+					"width": 3645,
+					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/canvas/2",
+					"label": "1v",
+					"height": 2986
+				}
+			],
+			"@type": "sc:Sequence",
+			"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00079/sequence",
+			"label": "Current Page Order"
+		}
+	],
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"seeAlso": "https://services.prod.env.cudl.link/v1/metadata/tei/MS-TS-MISC-00028-00079/"
+}
