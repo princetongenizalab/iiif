@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://princetongenizalab.github.io/iiif/bodleian/ms-heb-a/ms-heb-a-1-2.json",
+  "@id": "https://princetongenizalab.github.io/iiif/bodleian/a/ms-heb-a-1-2.json",
   "@type": "sc:Manifest",
   "label": "MS. Heb. a. 1/2",
   "metadata": [
