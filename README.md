@@ -13,3 +13,4 @@ The content of this repository is published online using GitHub pages.
 
 - [CUDL](cudl) — subsets of existing manifests from Cambridge (to come)
 - [JRL](jrl) - aggregated manifests from University of Manchester 
+- [Bodleian](bodleian) - manifests for Genizah Fragments at the Bodleian Libraries
