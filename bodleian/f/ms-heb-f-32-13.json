@@ -23,7 +23,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/1.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-32-13/1.json",
           "@type": "sc:Canvas",
           "label": "41 verso",
           "height": 3876,

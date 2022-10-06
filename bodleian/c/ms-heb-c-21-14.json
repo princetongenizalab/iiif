@@ -23,7 +23,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/1.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/1.json",
           "@type": "sc:Canvas",
           "label": "25 recto",
           "height": 6584,
@@ -50,7 +50,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/2.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/2.json",
           "@type": "sc:Canvas",
           "label": "25 verso",
           "height": 6547,
@@ -77,7 +77,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/3.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/3.json",
           "@type": "sc:Canvas",
           "label": "26 recto",
           "height": 6655,
@@ -104,7 +104,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/4.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/4.json",
           "@type": "sc:Canvas",
           "label": "26 verso",
           "height": 6566,
@@ -131,7 +131,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/5.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/5.json",
           "@type": "sc:Canvas",
           "label": "27 recto",
           "height": 6672,
@@ -158,7 +158,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/6.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/6.json",
           "@type": "sc:Canvas",
           "label": "27 verso",
           "height": 6672,
@@ -185,7 +185,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/7.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/7.json",
           "@type": "sc:Canvas",
           "label": "28 recto",
           "height": 6619,
@@ -212,7 +212,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/8.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/8.json",
           "@type": "sc:Canvas",
           "label": "28 verso",
           "height": 6602,
@@ -239,7 +239,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/9.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/9.json",
           "@type": "sc:Canvas",
           "label": "29 recto",
           "height": 6637,
@@ -266,7 +266,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/10.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/10.json",
           "@type": "sc:Canvas",
           "label": "29 verso",
           "height": 6619,
@@ -293,7 +293,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/11.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/11.json",
           "@type": "sc:Canvas",
           "label": "30 recto",
           "height": 6619,
@@ -320,7 +320,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/12.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/12.json",
           "@type": "sc:Canvas",
           "label": "30 verso",
           "height": 6602,
@@ -347,7 +347,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/13.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/13.json",
           "@type": "sc:Canvas",
           "label": "31 recto",
           "height": 6601,
@@ -374,7 +374,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/14.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/14.json",
           "@type": "sc:Canvas",
           "label": "31 verso",
           "height": 6831,
@@ -401,7 +401,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/15.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/15.json",
           "@type": "sc:Canvas",
           "label": "32 recto",
           "height": 6601,
@@ -428,7 +428,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/16.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/16.json",
           "@type": "sc:Canvas",
           "label": "32 verso",
           "height": 6796,
@@ -455,7 +455,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/17.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/17.json",
           "@type": "sc:Canvas",
           "label": "33 recto",
           "height": 6549,
@@ -482,7 +482,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/18.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/18.json",
           "@type": "sc:Canvas",
           "label": "33 verso",
           "height": 6866,
@@ -509,7 +509,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/19.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/19.json",
           "@type": "sc:Canvas",
           "label": "34 recto",
           "height": 6601,
@@ -536,7 +536,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/20.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/20.json",
           "@type": "sc:Canvas",
           "label": "34 verso",
           "height": 6743,
@@ -563,7 +563,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/21.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/21.json",
           "@type": "sc:Canvas",
           "label": "35 recto",
           "height": 6627,
@@ -590,7 +590,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/22.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/22.json",
           "@type": "sc:Canvas",
           "label": "35 verso",
           "height": 6652,
@@ -617,7 +617,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/23.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/23.json",
           "@type": "sc:Canvas",
           "label": "36 recto",
           "height": 6743,
@@ -644,7 +644,7 @@
           ]
         },
         {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/24.json",
+          "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-21-14/24.json",
           "@type": "sc:Canvas",
           "label": "36 verso",
           "height": 6778,
