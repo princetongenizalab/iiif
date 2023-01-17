@@ -354,43 +354,6 @@
               }
             }
           ]
-        },
-        {
-          "@id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~95~2~3397~108777/canvas/c1",
-          "@type": "sc:Canvas",
-          "label": "8+9 / 9 leaves (4 x 2 conjoined), recto",
-          "height": 4017,
-          "width": 5350,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://luna.manchester.ac.uk/luna/servlet/iiif/ManchesterDev~95~2~3397~108777/full/full/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "height": 4017,
-                "width": 5350,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://luna.manchester.ac.uk/luna/servlet/iiif/ManchesterDev~95~2~3397~108777",
-                  "profile": "http://iiif.io/api/image/2/level0.json"
-                }
-              },
-              "on": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~95~2~3397~108777/canvas/c1"
-            }
-          ],
-          "partOf": [
-            {
-              "@id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~95~2~3397~108777/manifest",
-              "@type": "sc:Manifest",
-              "label": {
-                "en": [
-                  "original source: A 1010 - 9"
-                ]
-              }
-            }
-          ]
         }
       ]
     }

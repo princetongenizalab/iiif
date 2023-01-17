@@ -62,7 +62,7 @@
         {
           "@id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~95~2~110111~122424/canvas/c1",
           "@type": "sc:Canvas",
-          "label": "1 / 3 leaves, recto",
+          "label": "1 / 3 leaves, verso",
           "height": 4017,
           "width": 5350,
           "images": [
