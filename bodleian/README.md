@@ -16,27 +16,19 @@ The `manifests_to_csv.py` script was used to generate `pgp-bodleian-manifests.cs
 
 ## Missing/excluded images
 
-- All images from MS_HEB_a_4.xml are missing, because the TEI is structured differently; however, the content is Pentateuch (literary / non PGP).
+- All images from `MS_HEB_a_4.xml` are missing, because the TEI is structured differently; however, the content is Pentateuch (literary / non PGP).
 - In MS HEB b, the following are missing: 
-
-  - MS_HEB_b_13_53(a)a.tif
-  - MS_HEB_b_13_53(a)b.tif
-  - MS_HEB_b_13_53(b)a.tif
-  - MS_HEB_b_13_53(b)b.tif
-  - MS_HEB_b_17_36b.tif
-  - MS_HEB_b_18_24b.tif
-  
- - in MS Heb d, the following are missing:
-   
-  - MS_HEB_d_32_46b.tif
-  - MS_HEB_d_32_53a.tif
-  - MS_HEB_d_43_1a.tif
-  - MS_HEB_d_43_27b.tif
-  - MS_HEB_d_45_35b.tif
-  - MS_HEB_d_55_35a.tif
-  - MS_HEB_d_55_35b.tif
-
-
-
-
+  - `MS_HEB_b_17_36b.tif`
+  - `MS_HEB_b_18_24b.tif`
+- in MS Heb d, the following are missing:
+  - `MS_HEB_d_32_46b.tif`
+  - `MS_HEB_d_32_53a.tif`
+  - `MS_HEB_d_43_1a.tif`
+  - `MS_HEB_d_43_27b.tif`
+  - `MS_HEB_d_45_35b.tif`
+  - `MS_HEB_d_55_35a.tif`
+  - `MS_HEB_d_55_35b.tif`
+- All images from `MS_Heb_e_52_R.xml` are missing.
+- The image `MS_HEB_f_102_7b.tif` is missing.
+- Images in `non-manuscript-images.csv` are listed in `facsimile` sections of the TEI, and are not necessarily missing, but are not matched to the numbers in TEI `locus` nodes and thus are not considered part of any folios.
 
