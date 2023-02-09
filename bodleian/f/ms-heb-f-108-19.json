@@ -11,7 +11,7 @@
   ],
   "description": "None",
   "rendering": {
-    "@id": "https://genizah.bodleian.ox.ac.uk/catalog/volume_172#MS_Heb_f_108-part19",
+    "@id": "https://genizah.bodleian.ox.ac.uk/catalog/volume_172#MS_Heb_f_108-part13",
     "format": "text/html"
   },
   "attribution": "Images \u00a9 Bodleian Libraries, University of Oxford. <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC-BY-NC 4.0</a>. For more information, please see <a href='https://genizah.bodleian.ox.ac.uk/terms'>Terms of Use</a>.",
@@ -25,108 +25,54 @@
         {
           "@id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-108-19/1.json",
           "@type": "sc:Canvas",
-          "label": "33 recto",
-          "height": 4699,
-          "width": 3380,
+          "label": "19 recto",
+          "height": 4326,
+          "width": 3390,
           "images": [
             {
-              "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/1.json/anno1",
+              "@id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-108-19/1.json/anno1",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_33a/full/full/0/default.jpg",
+                "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_19a/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 4699,
-                "width": 3380,
+                "height": 4326,
+                "width": 3390,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_33a",
+                  "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_19a",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://princetongenizalab.github.io/iiif/bodleian/canvas/1.json"
+              "on": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-108-19/1.json"
             }
           ]
         },
         {
           "@id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-108-19/2.json",
           "@type": "sc:Canvas",
-          "label": "33 verso",
-          "height": 4637,
-          "width": 3586,
+          "label": "19 verso",
+          "height": 4393,
+          "width": 3426,
           "images": [
             {
-              "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/2.json/anno1",
+              "@id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-108-19/2.json/anno1",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_33b/full/full/0/default.jpg",
+                "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_19b/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 4637,
-                "width": 3586,
+                "height": 4393,
+                "width": 3426,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_33b",
+                  "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_19b",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://princetongenizalab.github.io/iiif/bodleian/canvas/2.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-108-19/3.json",
-          "@type": "sc:Canvas",
-          "label": "34 recto",
-          "height": 4632,
-          "width": 3473,
-          "images": [
-            {
-              "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/3.json/anno1",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_34a/full/full/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "height": 4632,
-                "width": 3473,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_34a",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://princetongenizalab.github.io/iiif/bodleian/canvas/3.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-108-19/4.json",
-          "@type": "sc:Canvas",
-          "label": "34 verso",
-          "height": 4735,
-          "width": 3664,
-          "images": [
-            {
-              "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/4.json/anno1",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_34b/full/full/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "height": 4735,
-                "width": 3664,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_f_108_34b",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://princetongenizalab.github.io/iiif/bodleian/canvas/4.json"
+              "on": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-108-19/2.json"
             }
           ]
         }

@@ -30,7 +30,7 @@
           "width": 4547,
           "images": [
             {
-              "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/1.json/anno1",
+              "@id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-12-13/1.json/anno1",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -45,7 +45,7 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://princetongenizalab.github.io/iiif/bodleian/canvas/1.json"
+              "on": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-12-13/1.json"
             }
           ]
         },
@@ -57,7 +57,7 @@
           "width": 4582,
           "images": [
             {
-              "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/2.json/anno1",
+              "@id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-12-13/2.json/anno1",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -72,7 +72,7 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://princetongenizalab.github.io/iiif/bodleian/canvas/2.json"
+              "on": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-12-13/2.json"
             }
           ]
         },
@@ -84,7 +84,7 @@
           "width": 2125,
           "images": [
             {
-              "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/3.json/anno1",
+              "@id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-12-13/3.json/anno1",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -99,7 +99,7 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://princetongenizalab.github.io/iiif/bodleian/canvas/3.json"
+              "on": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-12-13/3.json"
             }
           ]
         },
@@ -111,7 +111,7 @@
           "width": 2269,
           "images": [
             {
-              "@id": "https://princetongenizalab.github.io/iiif/bodleian/canvas/4.json/anno1",
+              "@id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-12-13/4.json/anno1",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -126,7 +126,7 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://princetongenizalab.github.io/iiif/bodleian/canvas/4.json"
+              "on": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-12-13/4.json"
             }
           ]
         }
