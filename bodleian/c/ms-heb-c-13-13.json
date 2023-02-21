@@ -53,8 +53,8 @@
           "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-13-13/2.json",
           "@type": "sc:Canvas",
           "label": "13 verso",
-          "height": 4222,
-          "width": 5197,
+          "height": 3592,
+          "width": 4524,
           "images": [
             {
               "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-13-13/2.json/anno1",
@@ -64,8 +64,8 @@
                 "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_c_13_13b/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 4222,
-                "width": 5197,
+                "height": 3592,
+                "width": 4524,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_c_13_13b",
