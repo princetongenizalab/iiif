@@ -26,7 +26,7 @@
           "@id": "https://princetongenizalab.github.io/iiif/bodleian/d/canvas/ms-heb-d-74-35/1.json",
           "@type": "sc:Canvas",
           "label": "35 recto",
-          "height": 5919,
+          "height": 5223,
           "width": 4519,
           "images": [
             {
@@ -37,7 +37,7 @@
                 "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_d_74_35a/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 5919,
+                "height": 5223,
                 "width": 4519,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
@@ -53,7 +53,7 @@
           "@id": "https://princetongenizalab.github.io/iiif/bodleian/d/canvas/ms-heb-d-74-35/2.json",
           "@type": "sc:Canvas",
           "label": "35 verso",
-          "height": 5940,
+          "height": 5244,
           "width": 4723,
           "images": [
             {
@@ -64,7 +64,7 @@
                 "@id": "https://puliiif.princeton.edu/iiif/2/MS_HEB_d_74_35b/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 5940,
+                "height": 5244,
                 "width": 4723,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
