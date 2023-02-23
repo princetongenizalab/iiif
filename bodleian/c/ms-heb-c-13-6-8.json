@@ -25,7 +25,7 @@
         {
           "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-13-6-8/1.json",
           "@type": "sc:Canvas",
-          "label": "6 recto",
+          "label": "6-8 recto",
           "height": 8038,
           "width": 5885,
           "images": [
@@ -52,7 +52,7 @@
         {
           "@id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-13-6-8/2.json",
           "@type": "sc:Canvas",
-          "label": "6 verso",
+          "label": "6-8 verso",
           "height": 8514,
           "width": 5900,
           "images": [
